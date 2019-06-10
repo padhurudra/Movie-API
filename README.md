@@ -24,5 +24,5 @@ Getting Started,
        
       cd into the client folder and run: ‘npm install','npm install -g @angular/cli’ commands to install the node angular cli packages.
       
-      Run: ‘ng serve --open’. this will run the application starts the server in browser.
+      Run: ‘ng serve --open’ this will run the application starts the server in browser.
  
